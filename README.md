@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoysalAhamedSifat-xello&show_icons=true&theme=radical&count_private=true)
+![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoysalAhamedSifat-xello&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🏆 Contributions & Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=FoysalAhamedSifat-xello&theme=radical&hide_border=true)
