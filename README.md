@@ -20,10 +20,14 @@
 
 ---
 
-### 📊 GitHub Stats
-*(My primary coding is done in private/company repos — public activity below is from personal and demo projects)*
+## 📊 GitHub Stats
+![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoysalAhamedSifat-xello&show_icons=true&theme=radical&count_private=true)
 
-![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat-xello&show_icons=true&theme=radical)
+## 🏆 Contributions & Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=FoysalAhamedSifat-xello&theme=radical&hide_border=true)
+
+## 📈 Contribution Graph
+![Foysal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FoysalAhamedSifat-xello&theme=react-dark&hide_border=true)
 
 ---
 
