@@ -20,17 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoysalAhamedSifat-xello&show_icons=true&theme=radical&count_private=true&include_all_commits=true&t=1)
-
-## 🏆 Contributions & Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=FoysalAhamedSifat-xello&theme=radical&hide_border=true)
-
-## 📈 Contribution Graph
-![Foysal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FoysalAhamedSifat-xello&theme=react-dark&hide_border=true)
-
----
-
 ### 🌐 Links & Contact
 - Portfolio: https://foysalahamedsifat.github.io/me/  
 - LinkedIn: https://www.linkedin.com/in/foysal-ahamed-sifat-498483169  
