@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Foysal Ahamed Sifat 👋
 
-<!--
-**FoysalAhamedSifat-xello/FoysalAhamedSifat-xello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack .NET Developer | EdTech & Enterprise App Specialist**  
+💼 5+ years building scalable, enterprise-grade solutions with **ASP.NET Core, Angular & Azure**  
+📍 Toronto, ON
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Currently at **Xello** building **Real Life Simulator** and FinLit gamification features (Angular + .NET Core + InkJS + SignalR)
+- 💡 Passionate about enterprise apps, EdTech, and digital transformation
+- 🧰 Experienced with ERP, medical billing, document management (OCR), SignalR real-time systems
+- 🎓 Postgraduate Diploma — Software Engineering Technology (Centennial College) — GPA: 3.81
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Languages:** C#, JavaScript, TypeScript, Python, Java  
+**Frameworks:** ASP.NET Core, Angular, React, SignalR, InkJS  
+**Databases:** SQL Server, MySQL, PostgreSQL  
+**Tools & Cloud:** Azure, AWS, Docker, Git, Azure DevOps  
+
+---
+
+### 📊 GitHub Stats
+*(My primary coding is done in private/company repos — public activity below is from personal and demo projects)*
+
+![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Links & Contact
+- Portfolio: https://foysalahamedsifat.github.io/me/  
+- LinkedIn: https://www.linkedin.com/in/foysal-ahamed-sifat-498483169  
+- Blog: https://fuelthestack.com  
+- HackerRank: https://www.hackerrank.com/foysalahamedsif1  
+- Email: foysalahamedsifat@gmail.com  
+
+---
+
+💬 *"Clean architecture, scalable solutions, and empowering users — that’s my code philosophy."*
