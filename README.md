@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 *(My primary coding is done in private/company repos — public activity below is from personal and demo projects)*
 
-![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat&show_icons=true&theme=radical)
+![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=foysalahamedsifat-xello&show_icons=true&theme=radical)
 
 ---
 
