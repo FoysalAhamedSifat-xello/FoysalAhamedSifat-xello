@@ -6,7 +6,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently at **Xello** building **Real Life Simulator** and FinLit gamification features (Angular + .NET Core + InkJS + SignalR)
 - 💡 Passionate about enterprise apps, EdTech, and digital transformation
 - 🧰 Experienced with ERP, medical billing, document management (OCR), SignalR real-time systems
 - 🎓 Postgraduate Diploma — Software Engineering Technology (Centennial College) — GPA: 3.81
